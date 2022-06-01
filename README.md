@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
 
-<h1 align="center">hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" > </h1>
+<h1 align="center">Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"  > </h1>
 <h1 align="center"> You are on <span style="color:#1177F7FF">Rohan Devaki's</span> Github profile</h1>
 
 <p align="center"> 
@@ -47,7 +47,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I like to listen to songs, watch movies and workout
 - 💬 Ask me about the recent products which I have explored and which I have found helpful.
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rohan_devaki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohandevaki)
+- 📫 How to reach me:
+ &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rohan_devaki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohandevaki)  <a href="https://instagram.com/thealgorithammer"><img src="https://img.shields.io/badge/-@thealgorithammer-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ---
 
