@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - ⚡ I like to solve real world problems with my skills by building great products
-- 🔭 I’m currently preparing for placements
-- 🌱 I like to explore working  and marketing of different products 
+- 🔭 I’m currently learning datascience
+- 🌱 I like to explore various AI products
 - ⚡ In my free time I like to listen to songs, watch movies and workout
-- 💬 Ask me about the recent products which I have explored and which I have found helpful.
+- 💬 Lets discuss about the Upcoming innovations in AI
 
 - 📫 How to reach me:
  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rohan_devaki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohandevaki)  <a href="https://instagram.com/thealgorithammer"><img src="https://img.shields.io/badge/-@thealgorithammer-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
